@@ -1,2 +1,8 @@
-# about
-All updated basic info around About us for The Data Talk, FastestIndia and Sikvara can be found here
+About
+About Us….
+
+WHAT WE DO
+
+Creating research reports on different technical and functional growth and developments. Different technology and functional tools are there which are being used by professionals like Adobe lightroom, python programming, cloud services, and drawing tools. Cost cutting, competition, and popularity of a product with its advantages and disadvantages often matter affect the professional’s pay-scale if they are not updated by the new tools their market penetration and growth. We will be creating reports around different verticals suggesting our members keep an update around the same so that their future relevance is always there in spite of market conditions.
+Developing a web-based community of technical and function professionals on a paid membership basis. The Product named “The Data Talk” is to be developed over the web and mobile panels which will enable community members to leverage assets, build networks, enhancing skills that we create in form of suggestions, discussion, events, entertainment, reports, and podcasts to be seen and used by community members for their growth & value creation and enhancement. The members mostly are part of professional organizations serving in the technical, functional, or entrepreneurial fields, further students can be a member. There will be 1 month or 14 days of free trial which let users experience the platform before making the final purchase of the application.
+Providing Software development/data analytics /visualization support to client /in-house projects. To remain in business, we are going to accept products and services market requirements and hire required resources to make that project work or keep it alive on a temporary or permanent basis through freelancing, part-time, and full-time human resources hiring.
